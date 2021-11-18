@@ -36,7 +36,7 @@ import share from "../../assets/photos/share.png"
 import stat from "../../assets/photos/stat.png"
 import retweetGreen from "../../assets/photos/retweetGreen.png"
 import likeFill from "../../assets/photos/likeFill.png"
-import tweetImg from "../../assets/photos/olmaxon.jpg"
+import tweetImg from "../../assets/photos/shashlik.png"
 
 
 function Profile () {
